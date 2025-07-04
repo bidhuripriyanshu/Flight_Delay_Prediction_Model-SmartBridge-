@@ -8,8 +8,6 @@ The link to the video demonstrating are project is:
 
 ![image](https://github.com/SanyaGarg31/Flight-Delay-Prediction-SmartBridge-Externship/assets/95563058/9302e256-274c-4196-b357-943cf13fa309)
 
-![image](https://github.com/SanyaGarg31/Flight-Delay-Prediction-SmartBridge-Externship/assets/95563058/cc478380-9328-47f7-b0fe-2458b7a03280)
-
-![image](https://github.com/SanyaGarg31/Flight-Delay-Prediction-SmartBridge-Externship/assets/95563058/b8c7498b-57f7-4b67-9913-18eb240d5491)
+![image](https://github.com/user-attachments/assets/4d6de646-8362-4fce-a6a4-75bd48fbb278)
 
 The "Flight Delay Prediction using IBM Cloud " project aims to develop a solution that leverages machine learning and IBM Cloud services to accurately predict flight delays. The proposed solution offers advantages such as proactive decision making, user-friendly interface, integration with Flask, continuous improvement, and potential applications in airline operations, passenger travel planning, airport management, and more. Despite limitations related to data availability and quality, external factors, and user dependency, the project emphasizes ongoing efforts for refinement and improvement. Overall, the project contributes to optimizing airline operations and enhancing the passenger experience in the aviation industry.
